@@ -1,1 +1,1 @@
-new **demo** project hello
+new **demo** project goodbye
