@@ -1,4 +1,4 @@
-j'aime les fraises
+j'aime les fraises !
 
 j'ai dormir
 
